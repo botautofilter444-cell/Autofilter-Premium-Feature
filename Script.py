@@ -208,7 +208,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/iP_Update">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/iP_Update">[ iP Update ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/EpicCastle">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/EpicCastle">[ ʀɪᴅᴇʀᴇᴘɪᴄ ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
