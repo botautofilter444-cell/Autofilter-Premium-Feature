@@ -31,12 +31,12 @@ INDEX_CAPTION = bool(environ.get('SAVE_CAPTION', True)) # Save caption db when i
 #Making it false will not save caption in db SO you can save some storage space
 
 
-PICS = (environ.get('PICS', 'https://graph.org/file/836e2fe5201cfe0dbbac0-8f2e9d280832c2096c.jpg https://graph.org/file/a9b882da92c72e7344306-b489f927f3b6bf80cc.jpg https://graph.org/file/33d354c0726a482c81a5f-64cb33ab2f548204bd.jpg')).split()  # Sample pic
+PICS = (environ.get('PICS', 'https://graph.org/file/bd83650194767036f73fc-927fbd2f95bbec9a8a.jpg https://graph.org/file/1a168f87ce041b521c75b-4ba035c7bc34a82010.jpg ')).split()  # Sample pic
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_PHOTO = environ.get("MELCOW_PHOTO", "https://graph.org/file/56b5deb73f3b132e2bb73.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/13702ae26fb05df52667c.jpg")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/242b7f1b52743938d81f1.jpg'))
-FSUB_PICS = (environ.get('FSUB_PICS', 'https://graph.org/file/7478ff3eac37f4329c3d8.jpg https://graph.org/file/56b5deb73f3b132e2bb73.jpg')).split()  # Fsub pic
+FSUB_PICS = (environ.get('FSUB_PICS', 'https://graph.org/file/7478ff3eac37f4329c3d8.jpg https://graph.org/file/56b5deb73f3b132e2bb73.jpg https://graph.org/file/a23ec8760741e7a09f0a3-3c3bdf2b2edbb46ab6.jpg https://graph.org/file/cb710704feabe205b7c53-58860b03312d7e0f36.jpg https://graph.org/file/fb8ac9ff9f0e6b7ab3a22-7cf57db9ffb6abe0af.jpg https://graph.org/file/e36fedd70d84d308afba4-d20077141a5cad8941.jpg')).split()  # Fsub pic
 
 # ============================
 # Admin, Channels & Users Configuration
